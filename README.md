@@ -29,4 +29,8 @@ It includes a deep learning model based on **ResNet50**, a Flask API backend, an
 ---
 
 ## 📁 Project Structure
+👉 [Download best_model.pth](https://drive.google.com/file/d/1YCg_W-0Z4nEJsIMvifE11zczB_bmd7Qq/view?usp=drive_link)
+## 📂 Dataset
+This project uses the NIH Chest X-ray dataset from Kaggle.  
+📎 [Download from Kaggle](https://www.kaggle.com/datasets/nih-chest-xrays/data)
 
